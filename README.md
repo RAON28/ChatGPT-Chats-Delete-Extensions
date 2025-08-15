@@ -1,8 +1,8 @@
 # <img width="1400" height="560" alt="마키 프로모션 타일" src="https://github.com/user-attachments/assets/a6f6b958-48d7-4ef6-8649-476ec2461427" />
-<img width="450" height="280" alt="크롬크롬1" src="https://github.com/user-attachments/assets/e5a5e791-180d-4326-8131-10e4073694c3" /> 
-<img width="450" height="280" alt="크롬크롬2" src="https://github.com/user-attachments/assets/d78653b0-eb92-4ef6-ae9d-867ab024857d" />
-<img width="450" height="280" alt="크롬크롬3" src="https://github.com/user-attachments/assets/5e880289-b58a-4f10-9278-3e486beb1ec4" />
-<img width="450" height="280" alt="크롬크롬4" src="https://github.com/user-attachments/assets/ef88f8c8-185b-4174-b85e-df716a73e372" />
+<img width="320" height="200" alt="크롬크롬1" src="https://github.com/user-attachments/assets/e5a5e791-180d-4326-8131-10e4073694c3" /> 
+<img width="320" height="200" alt="크롬크롬2" src="https://github.com/user-attachments/assets/d78653b0-eb92-4ef6-ae9d-867ab024857d" />
+<img width="320" height="200" alt="크롬크롬3" src="https://github.com/user-attachments/assets/5e880289-b58a-4f10-9278-3e486beb1ec4" />
+<img width="320" height="200" alt="크롬크롬4" src="https://github.com/user-attachments/assets/ef88f8c8-185b-4174-b85e-df716a73e372" />
 
 
 ChatGPT Chat Delete is a browser extension that helps ChatGPT users manage conversation records efficiently.
