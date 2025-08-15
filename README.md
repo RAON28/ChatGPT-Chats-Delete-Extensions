@@ -27,7 +27,7 @@ ChatGPT Chat Delete is a browser extension that helps ChatGPT users manage conve
 - Spanish
 - German
 - Please write the language you want to add
-https://github.com/RAON28/ChatGPT-Chats-Delete/discussions/categories/language-translation
+https://github.com/RAON28/ChatGPT-Chats-Delete-Extensions/discussions/categories/language-translation
 
 🌞🌙 Themes
 - Dark/Light mode: Auto-apply to ChatGPT theme
