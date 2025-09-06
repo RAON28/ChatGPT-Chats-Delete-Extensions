@@ -65,7 +65,7 @@
 ## 📞 문의 및 지원
 
 ### **개발자 연락처**
-- GitHub: https://github.com/RAON28/ChatGPT-Chats-Delete
+- GitHub: https://github.com/RAON28/ChatGPT-Chats-Delete-Extensions
 - Issues: 버그 리포트 및 기능 요청
 - 이메일: 개발자에게 직접 문의
 
